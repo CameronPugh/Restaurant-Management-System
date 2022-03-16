@@ -1,6 +1,9 @@
 # Restaurant App Via React.js
 
-This dashboard provides an interface to interact with the requested restaurant data and make GET, POST requests via the interface. 
+This dashboard provides an interface to interact with the requested restaurant data and make GET, POST requests via the interface. \
+
+![image](https://user-images.githubusercontent.com/61750390/158685068-a796a5d1-2d59-4dd1-b9bc-5256754926c5.png)
+
 
 ## Launch Application
 
